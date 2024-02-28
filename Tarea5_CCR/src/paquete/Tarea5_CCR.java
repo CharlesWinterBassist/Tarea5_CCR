@@ -50,7 +50,7 @@ class SelectionSort {
 
 
 
-public class tarea6 {
+public class Tarea5_CCR {
       
 
 
